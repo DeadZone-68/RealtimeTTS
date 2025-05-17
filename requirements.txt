@@ -41,7 +41,7 @@ jieba==0.42.1
 cn2an==0.5.23
 
 # pyaudio is for playing chunks over output device
-pyaudio==0.2.14
+
 
 # pydub is used to convert chunks from mp3 to pcm (for openai tts)
 pydub==0.25.1
